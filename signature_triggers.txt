@@ -1,0 +1,11 @@
+(?i)^best regards
+(?i)^kind regards
+(?i)^thanks
+(?i)^regards
+(?i)^sincerely
+(?i)^cheers
+(?i)^--$
+(?i)^sent from my
+(?i)^email:
+(?i)^internet:
+(?i)^[a-zA-Z\s]{2,30}$
