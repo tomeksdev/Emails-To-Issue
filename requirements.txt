@@ -1,0 +1,7 @@
+requests
+python-dotenv
+imaplib
+email
+re
+talon
+loggin
