@@ -113,7 +113,7 @@ The script logs its actions (like issue creation) in a file named `email_to_issu
 Execute the script using Python:
 
 ```bash
-python email_to_github_issue.py
+python email-to-issue.py
 ```
 
 The script will:
