@@ -9,3 +9,4 @@
 (?i)^email:
 (?i)^internet:
 (?i)^[a-zA-Z\s]{2,30}$
+(?i)administrator|manager|engineer|director|coordinator|officer|developer|consultant
