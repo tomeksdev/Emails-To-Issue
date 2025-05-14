@@ -83,10 +83,21 @@ Each key-value pair in `LABEL_MAP` should be separated by commas. The key is the
 
 ### 6. Configure Signature Cleaning Triggers
 
-The script supports cleaning email signatures. By default, it removes common signature patterns (like "Best regards," "Thanks," etc.). You can extend these patterns by adding custom triggers in the `.env` file:
+The script supports cleaning email signatures. By default, it removes common signature patterns (like "Best regards," "Thanks," etc.). You can extend these patterns by adding custom triggers in the `signature_triggers.txt` file:
 
-```env
-SIG_TRIGGERS="--,Best regards,Kind regards,Sincerely,Thanks"
+```signature_triggers.txt
+(?i)^best regards
+(?i)^kind regards
+(?i)^thanks
+(?i)^regards
+(?i)^sincerely
+(?i)^cheers
+(?i)^--$
+(?i)^sent from my
+(?i)^email:
+(?i)^internet:
+(?i)^[a-zA-Z\s]{2,30}$
+(?i)administrator|manager|engineer|director|coordinator|officer|developer|consultant
 ```
 
 ### 7. Configure Logging
