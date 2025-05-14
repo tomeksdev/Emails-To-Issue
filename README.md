@@ -1,5 +1,5 @@
 
-# Email to GitHub Issue Script Documentation
+# Email to Issue Script Documentation
 
 ## Overview
 
