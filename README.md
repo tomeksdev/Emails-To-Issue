@@ -1,4 +1,5 @@
-
+[![CodeQL](https://github.com/tomeksdev/Emails-To-Issue/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/tomeksdev/Emails-To-Issue/actions/workflows/github-code-scanning/codeql)
+[![pages-build-deployment](https://github.com/tomeksdev/Emails-To-Issue/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/tomeksdev/Emails-To-Issue/actions/workflows/pages/pages-build-deployment)
 # Email to Issue Script Documentation
 
 ## Overview
