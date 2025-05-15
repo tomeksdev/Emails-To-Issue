@@ -1,5 +1,5 @@
 [![CodeQL](https://github.com/tomeksdev/Emails-To-Issue/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/tomeksdev/Emails-To-Issue/actions/workflows/github-code-scanning/codeql)
-[![OSSAR](https://github.com/tomeksdev/Emails-To-Issue/actions/workflows/ossar-analysis.yml/badge.svg?branch=master)](https://github.com/tomeksdev/Emails-To-Issue/actions/workflows/ossar-analysis.yml)
+[![OSSAR](https://github.com/tomeksdev/Emails-To-Issue/actions/workflows/ossar.yml/badge.svg)](https://github.com/tomeksdev/Emails-To-Issue/actions/workflows/ossar.yml)
 # Email to Issue Script Documentation
 
 ## Overview
